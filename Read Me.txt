@@ -1,0 +1,4 @@
+El proyecto tiene las rutas de librerias y archivos 
+necesarias asignadas a la carpeta wamp, cambiar en caso que sea necesario. 
+
+El nombre de la base de datos es igual al del archivo .sql

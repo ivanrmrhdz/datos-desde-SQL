@@ -1,0 +1,1 @@
+﻿SELECT cotizaciones.codcotizacion, productos.nombreprod, clientes.nombrecl, cotizaciones.fechacot FROM ((cotizaciones INNER JOIN productos ON cotizaciones.codpro = productos.codpro) INNER JOIN clientes ON cotizaciones.codcliente = clientes.codcliente)
